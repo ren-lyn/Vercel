@@ -1,0 +1,41 @@
+body {
+  background-color: #ffe6f0; /* light pink */
+  color: #333;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Navbar override */
+.navbar-custom {
+  background-color: #ffb6c1; /* light pink */
+}
+
+.navbar-custom .nav-link,
+.navbar-custom .navbar-brand {
+  color: #fff !important;
+}
+
+.navbar-custom .nav-link:hover {
+  color: #000 !important;
+}
+
+/* Footer */
+footer {
+  background-color: #ffb6c1; /* light pink */
+  color: #fff;
+}
+
+/* Card Styling */
+.card {
+  background-color: #fff0f5; /* lighter pink */
+  border: none;
+}
+
+.btn-pink {
+  background-color: #ff69b4;
+  color: white;
+  border: none;
+}
+
+.btn-pink:hover {
+  background-color: #ff1493;
+}
